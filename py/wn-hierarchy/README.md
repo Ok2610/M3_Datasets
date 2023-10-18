@@ -1,0 +1,1 @@
+Original scripts from https://github.com/ITU-DASYALab/wordnet-hierarchy
